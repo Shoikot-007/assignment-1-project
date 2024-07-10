@@ -154,3 +154,60 @@
 iframe {
   border-radius: 16px;
 }
+
+/* my current target section styles */
+
+.my-current-target {
+  margin: 70px 150px;
+}
+
+.technology-card-container {
+  display: flex;
+  gap: 24px;
+}
+
+.technology-card-1 {
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 76, 30, 0.05);
+}
+
+.technology-card-2 {
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(0, 76, 232, 0.05);
+}
+
+.technology-card-3 {
+  padding: 40px;
+  border-radius: 16px;
+  background: rgba(255, 223, 0, 0.05);
+}
+
+.learn-more-link {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+.technology-title {
+  color: rgb(13, 19, 33);
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 8px;
+  margin-top: 0;
+}
+
+.technology-description {
+  color: rgb(13, 19, 33);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+.technology-icon {
+  margin-bottom: 24px;
+}
