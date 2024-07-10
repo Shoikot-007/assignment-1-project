@@ -61,16 +61,17 @@
   padding: 80px 97px;
   border-radius: 16px;
   background: rgba(13, 19, 33, 0.02);
+  margin-bottom: 88px;
 }
 
-.why-web-dev-title {
+.section-title {
   color: rgb(13, 19, 33);
   font-size: 32px;
   font-weight: 800;
   text-align: center;
 }
 
-.why-web-dev-description {
+.section-description {
   color: rgb(13, 19, 33);
   font-size: 16px;
   font-weight: 400;
@@ -133,4 +134,23 @@
   background-color: white;  
   margin-top: 32px;
   cursor: pointer;
+}
+
+/* my inspiration section style here */
+
+.my-inspiration {
+  margin: 70px 150px;
+}
+
+.iframe-container {
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid rgba(13, 19, 33, 0.2);
+  border-radius: 16px;
+  padding: 32px;
+  margin-top: 48px;
+}
+
+iframe {
+  border-radius: 16px;
 }
