@@ -229,7 +229,7 @@ iframe {
 
 .support-content {
   padding: 66px 48px;
-  width: 700px;
+  width: 91%;
   margin: 0 auto;
   text-align: center;
 }
@@ -248,14 +248,15 @@ iframe {
   font-weight: 400;
   opacity: 0.7;
   text-align: center;
-  width: 606px;
-  margin-top: 0;
+  width: 58%;
+  margin: 0 auto;
   margin-bottom: 24px;
 }
 
 .form {
   display: flex;
   gap: 16px;
+  justify-content: center;
 }
 
 .feedback-input {
@@ -268,7 +269,7 @@ iframe {
   border: 1px solid rgba(13, 19, 33, 0.15);
   border-radius: 8px; 
   background: rgb(255, 255, 255);
-  width: 548px;
+  width: 54%;
 }
 
 .submit-input {
